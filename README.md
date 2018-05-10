@@ -32,3 +32,17 @@ z.B.: day=“Week“ Anzeige der Daten der letzten 7 Tage
 v_title – Definition der y-Achsen Beschriftung
 
 Im Bereich Einstellungen-Allgemein steuert ein Flag, das mögliche Löschen der Datenbanktabelle beim Deaktivieren
+
+Installiere das Plugin in */wp-content/plugins Verzeichnis
+Aktiviere das Plugin im „Plugin“ Menü von WordPress, es wird automatisch eine neue Tabelle xxx_climadata angelegt.
+(xxx = WordPress prefix
+Durch drücken der Wetter-Buttons, wird ein Shortcode für ein Liniendiagramm erzeugt:
+[ws_chart title=“Heute“ chart=“temp“ day=“Today“ v_title=“Temperatur“ width=“800px“ height=“400px“ ]
+Ändere den erzeugten Code nach Deinen Wünschen ab
+Die Wettervorhersage ist durch den Shortcode [cm_forecast] darstellbar.
+
+Was benötige ich für dieses Plugin?
+
+Du benötigst einen Raspberry Pi, ein GrovePi+ Shield, Temperatur- und Luftdrucksensor.
+Ebenso benötigst Du das Coding von KlimaMonitorRasp, mit welchem die Daten in die Datenbank geschrieben werden.
+Für mehr Informationen, besuche bitte die Projektseite https://www.tipi-camping.de
