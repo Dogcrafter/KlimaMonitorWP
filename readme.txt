@@ -2,7 +2,7 @@
 Tags: Raspberry Pi, GrovePi+, Wetter, Klima, Temperatur, Luftfeuchtigkeit, Luftdruck
 Contributors: mayerst
 Requires at least: 3.0.1
-Tested up to: 4.4
+Tested up to: 4.9.5
 Stable tag: 1.0.3
 License: GPL2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -32,8 +32,8 @@ Aktuell werden Temperatur, Luftfeuchtigkeit und Luftdruck gemessen. Die gemessen
 = Was benötige ich für dieses Plugin? =
 
 Du benötigst einen Raspberry Pi, ein GrovePi+ Shield, Temperatur- und Luftdrucksensor.
-Ebenso benötigst Du das Coding, mit welchem die Daten in die Datenbank geschrieben werden.
-Für mehr Informationen, besuche bitte die Projektseite https://blog.dogcrafter.de 
+Ebenso benötigst Du das Coding von KlimaMonitorRasp, mit welchem die Daten in die Datenbank geschrieben werden.
+Für mehr Informationen, besuche bitte die Projektseite https://www.tipi-camping.de
 
 = An wen kann ich mich wenden, wenn ich Fragen habe? =
 
