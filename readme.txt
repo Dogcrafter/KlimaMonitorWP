@@ -53,7 +53,7 @@ Meine eMail Adresse lautet: info @ dogcrafter.de
 
 == Changelog ==
 = 1.0.3 =
-* Update der Projektseite und die RaspberryPi Entwicklung auf https://github.com/Dogcrafter/klimamonitor 
+* Update der Projektseite und die RaspberryPi Entwicklung auf https://github.com/Dogcrafter/KlimaonitorRasp und /KlimaMonitorWP
   
 = 1.0.2 =
 * Bug fixing: Einheit der spez. Luftfeuchte
