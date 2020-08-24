@@ -35,9 +35,7 @@ Du benötigst einen Raspberry Pi, ein GrovePi+ Shield, Temperatur- und Luftdruck
 Ebenso benötigst Du das Coding von KlimaMonitorRasp, mit welchem die Daten in die Datenbank geschrieben werden.
 Für mehr Informationen, besuche bitte die Projektseite https://www.tipi-camping.de
 
-= An wen kann ich mich wenden, wenn ich Fragen habe? =
 
-Meine eMail Adresse lautet: info @ dogcrafter.de 
 
 == Screenshots ==
 
